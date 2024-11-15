@@ -4,8 +4,8 @@ Demonstarator for npm/cli#7898
 See https://github.com/npm/cli/issues/7898
 
 ```
-git clone 
-docker build .
+git clone https://github.com/cmahnke/npm-7898.git
+docker build --progress=plain --no-cache .
 ```
 
 This should either:
