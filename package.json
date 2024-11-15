@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "mirador": "github:ProjectMirador/mirador#5cb692ed"
+  }
+}
